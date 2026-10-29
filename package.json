@@ -1,0 +1,11 @@
+{
+  "name": "gerenciador_de_aluguel_de_veículos",
+  "version": "1.0.0",
+  "description": "Criando uma interface de aluguel de veículos com Readline",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "¿god?"
+}
